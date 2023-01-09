@@ -4,7 +4,7 @@
 
 This is a bug report written after testing of the Luma ecommerce store website.
 
-You can check demo website on the following link [Luma ecommerce store] (https://magento.softwaretestingboard.com/what-is-new.html).
+You can check demo website on the following link https://magento.softwaretestingboard.com/what-is-new.html.
 
 You are free to check the bug report, and test the store also by yourself, and to try and find even more bugs.
 
