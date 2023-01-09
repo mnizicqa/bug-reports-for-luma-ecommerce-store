@@ -1,6 +1,6 @@
 # Bug report for Luma ecommerce store
 
-### Version 1.0
+## Version 1.0
 
 This is a bug report written after testing of the Luma ecommerce store website.
 
