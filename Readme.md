@@ -8,4 +8,4 @@ You can check demo website on the following link https://magento.softwaretesting
 
 You are free to check the bug report, and test the store also by yourself, and to try and find even more bugs.
 
-It was written after detailed process of manual testing, primarily white box and functional testing.
+It was written after detailed process of manual testing, primarily black box and functional testing.
